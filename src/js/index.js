@@ -24,7 +24,6 @@
 
 const personagens = document.querySelectorAll(".personagem")
 
-console.log(personagens)
 
 // passo 2 - adicionar a classe selecionado no personagem que o usuário passar o cursor do mouse
 
